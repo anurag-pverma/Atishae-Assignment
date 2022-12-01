@@ -6,13 +6,15 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import router from "./routes.js";
 import store from "./store/index.js";
+import { ChakraProvider } from '@chakra-ui/react'
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
+   
   <Provider store={store}>
     <RouterProvider router={router} />
-    
   </Provider>
+  
 );
 
 // If you want to start measuring performance in your app, pass a function

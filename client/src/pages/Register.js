@@ -36,7 +36,7 @@ export default function Register() {
   };
 
   return (
-    <Container>
+    <Container >
       <Box
         sx={{
           marginTop: 8,
@@ -100,7 +100,13 @@ export default function Register() {
             type="submit"
             fullWidth
             variant="contained"
-            sx={{ mt: 3, mb: 2 }}
+            sx={{ mt: 3, mb: 2, backgroundColor:"#4a148c",
+            '&:hover': {
+              backgroundColor: 'green',
+              opacity: [0.9, 0.8, 0.7],
+            },
+          
+          }}
           >
             Sign Up
           </Button>

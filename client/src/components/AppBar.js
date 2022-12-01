@@ -21,12 +21,12 @@ export default function ButtonAppBar() {
   }
 
   return (
-    <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+    <Box sx={{ flexGrow: 1  }}>
+      <AppBar position="static"  sx={{backgroundColor:"#9c27b0", fontFamily:"sans-serif"}}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            <Link className="text-white" to="/">
-              Expensor
+            <Link className="text-white" to="/" >
+            Smart Money Tracking
             </Link>
           </Typography>
 

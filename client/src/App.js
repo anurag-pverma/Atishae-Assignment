@@ -30,7 +30,7 @@ function App() {
   }, []);
 
   if (isLoading) {
-    return <p>Loading ...</p>;
+    return <h1>Loading ...</h1>;
   }
 
   return (

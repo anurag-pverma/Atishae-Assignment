@@ -82,12 +82,18 @@ export default function Login() {
             type="submit"
             fullWidth
             variant="contained"
-            sx={{ mt: 3, mb: 2 }}
+            sx={{ mt: 3, mb: 2 , backgroundColor:"#4a148c",
+            '&:hover': {
+              backgroundColor: 'green',
+              opacity: [0.9, 0.8, 0.7],
+            },
+          
+          }}
           >
             Sign In
           </Button>
           <Grid container>
-            <Grid item>
+            <Grid item sx={{color:"blue"}}>
               <RouterLink to="/register">
                 <Link component="span" variant="body2">
                   {"Don't have an account? Sign Up"}
