@@ -11,9 +11,9 @@ react-chartjs | Material-UI | CSS |Chakra-UI
 
 ## feature:
 
-$:[ A beautiful user Interface & easy to use ],
-$:[ User Authentication with restricted routing for users],
-$:[ Users record their expenses with a particular category]
-$: [Every user can create their own accounts]
-$: [Users also able to delete and edit their records]
+_Text [ A beautiful user Interface & easy to use_
+_[ User Authentication with restricted routing for users]_
+ _Users record their expenses with a particular category_
+ _Every user can create their own accounts_
+ _Users also able to delete and edit their records_
 
