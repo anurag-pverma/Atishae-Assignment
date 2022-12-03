@@ -18,11 +18,11 @@ _[ User Authentication with restricted routing for users]_
  ~~ Users also able to delete and edit their records ~~
 
 
- ! [Earth] (./Images/Screenshot (348).png)
- ! [Earth] (./Images/Screenshot (349).png)
- ! [Earth] (./Images/Screenshot (350).png)
- ! [Earth] (./Images/Screenshot (351).png)
- ! [Earth] (./Images/Screenshot (352).png)
- ! [Earth] (./Images/Screenshot (353).png)
+
+  ![plot](./Images/Screenshot%20(348).png)
+  ![plot](./Images/Screenshot%20(349).png)
+  ![plot](./Images/Screenshot%20(350).png)
+  ![plot](./Images/Screenshot%20(351).png)
+  ![plot](./Images/Screenshot%20(352).png)
 
 
