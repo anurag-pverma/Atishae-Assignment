@@ -1,8 +1,8 @@
 
-## Expense Tracking Application
+## Smart Money Tracking 
 
 ## Description 
- $ An Expense tracking application records user's transaction related data
+ $ An Money Expense tracking application records user's transaction related data
 
  ## Tech Stack:
   React.js | Redux | Express | Node.js | JavaScript
