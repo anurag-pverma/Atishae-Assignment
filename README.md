@@ -21,6 +21,7 @@ _[ User Authentication with restricted routing for users]_
 
   #### Register: 
   ![login](./Images/Screenshot%20(348).png)
+  ![plot](./Images/Screenshot%20(348).png)
 
   #### Login:
   ![plot](./Images/Screenshot%20(349).png)
