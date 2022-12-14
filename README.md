@@ -1,6 +1,9 @@
 
 ## Smart Money Tracking 
 
+Link : https://ds-l3cy57hef-anurag-pverma.vercel.app/
+SERVER: https://ds-l3cy57hef-anurag-pverma.vercel.app/check
+
 ## Description 
  $ An Money Expense tracking application records user's transaction related data
 
