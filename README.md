@@ -20,7 +20,7 @@ _[ User Authentication with restricted routing for users]_
 
 
   #### Register: 
-  ![plot](./Images/Screenshot%20(348).png)
+  ![login](./Images/Screenshot%20(348).png)
 
   #### Login:
   ![plot](./Images/Screenshot%20(349).png)
