@@ -66,7 +66,7 @@ export default function CategoryForm({ editCategory }) {
 
   async function update() {
     const res = await fetch(
-      `${process.env.REACT_APP_API_URL}/category/${editCategory._id}`,
+      `http://localhost:4000/category/${editCategory._id}`,
       {
         method: "PATCH",
         body: JSON.stringify(form),

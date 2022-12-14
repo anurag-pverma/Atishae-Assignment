@@ -28,7 +28,7 @@ export default function TransactionsList({
     const token = Cookies.get("token");
     if (!window.confirm("Are you sure")) return;
     const res = await fetch(
-      `${process.env.REACT_APP_API_URL}/transaction/${_id}`,
+      `http://localhost:4000/transaction/${_id}`,
       {
         method: "DELETE",
         headers: {
