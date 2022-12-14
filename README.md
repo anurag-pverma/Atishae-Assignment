@@ -1,7 +1,8 @@
 
 ## Smart Money Tracking 
+#### LIVE DEMO
+FRONTEND: https://sprightly-donut-878dd8.netlify.app/
 
-Link : https://ds-l3cy57hef-anurag-pverma.vercel.app/
 SERVER: https://ds-l3cy57hef-anurag-pverma.vercel.app/check
 
 ## Description 
