@@ -24,7 +24,7 @@ export default function Login() {
       password: data.get("password"),
     };
 
-    const res = await fetch(`http://localhost:4000/auth/login`, {
+    const res = await fetch(`https://ds-l3cy57hef-anurag-pverma.vercel.app/auth/login`, {
       method: "POST",
       body: JSON.stringify(form),
       headers: {

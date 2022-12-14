@@ -15,7 +15,7 @@ export default function Home() {
 
   async function fetchTransctions() {
     const token = Cookies.get("token");
-    const res = await fetch(`http://localhost:4000/transaction`, {
+    const res = await fetch(`https://ds-l3cy57hef-anurag-pverma.vercel.app/transaction`, {
       headers: {
         Authorization: `Bearer ${token}`,
       },

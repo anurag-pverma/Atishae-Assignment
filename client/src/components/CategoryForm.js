@@ -66,7 +66,7 @@ export default function CategoryForm({ editCategory }) {
 
   async function update() {
     const res = await fetch(
-      `http://localhost:4000/category/${editCategory._id}`,
+      `https://ds-l3cy57hef-anurag-pverma.vercel.app/category/${editCategory._id}`,
       {
         method: "PATCH",
         body: JSON.stringify(form),

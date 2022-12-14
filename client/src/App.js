@@ -12,7 +12,7 @@ function App() {
 
   async function fetchUser() {
     setIsLoading(true);
-    const res = await fetch(`http://localhost:4000/user`, {
+    const res = await fetch(`https://ds-l3cy57hef-anurag-pverma.vercel.app/user`, {
       headers: {
         Authorization: `Bearer ${token}`,
       },
